@@ -1,0 +1,26 @@
+https://coding.net/u/zjk930312/p/H5history/git
+
+wxkkwxxx wxk00zxg
+
+
+微信小程序
+AppID wx768407278eace862 
+APP秘钥
+dade7e82567036d3a622870a0d26e66b
+
+
+微信公众号
+wxb217df54c7199337
+db7576476bc558f3b59ad8be24ffc63a
+
+URL
+https://saukura.github.io
+
+Token
+weixin
+
+EncodingAESKey
+ORO3A3XwrilGKAC83uzMqmvpBgoKZCMvg9G7hQlFakK
+
+https://saukura.github.io/
+
